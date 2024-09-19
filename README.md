@@ -1,1 +1,1 @@
-Hello!
+Repository for Selenium & Python course
